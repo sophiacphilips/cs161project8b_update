@@ -13,4 +13,5 @@ def words_in_both(sent_1, sent_2):
             common_words.append(word) #adding string of common words to result
     return set(common_words)
 
-print(words_in_both("She is a jack of all trades", "Jack was tallest of all"))
+#testing
+#print(words_in_both("She is a jack of all trades", "Jack was tallest of all"))
